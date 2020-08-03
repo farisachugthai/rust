@@ -2,5 +2,8 @@
 tags
 tags.lock
 tags.temp
-main
 
+# The random executables I'm generating
+main
+guessing_game
+multiply
